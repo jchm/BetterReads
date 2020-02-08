@@ -1,0 +1,50 @@
+[
+    {
+        "id": 938064,
+        "original_publication_year": 1984,
+        "original_publication_month": 12,
+        "original_publication_day": null,
+        "average_rating": 4.18,
+        "best_book": {
+            "id": 35031085,
+            "title": "Frankenstein",
+            "author": {
+                "id": 11139,
+                "name": "Mary Wollstonecraft Shelley"
+            },
+            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg"
+        }
+    },
+    {
+        "id": 938064,
+        "original_publication_year": 1984,
+        "original_publication_month": 12,
+        "original_publication_day": null,
+        "average_rating": 4.18,
+        "best_book": {
+            "id": 35031085,
+            "title": "Frankenstein",
+            "author": {
+                "id": 11139,
+                "name": "Mary Wollstonecraft Shelley"
+            },
+            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg"
+        }
+    },
+    {
+        "id": 938064,
+        "original_publication_year": 1984,
+        "original_publication_month": 12,
+        "original_publication_day": null,
+        "average_rating": 4.18,
+        "best_book": {
+            "id": 35031085,
+            "title": "Frankenstein",
+            "author": {
+                "id": 11139,
+                "name": "Mary Wollstonecraft Shelley"
+            },
+            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg"
+        }
+    }
+]
